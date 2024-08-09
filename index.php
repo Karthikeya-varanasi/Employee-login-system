@@ -52,7 +52,7 @@ if (password_verify($password, $row['password'])) {
 
 
 $pageTitle = "Login-Page";
-$description = "Welcome To Ma";
+$description = "Welcome To DInjit";
 $meta_keywords = "";
 ?>
 
